@@ -4,6 +4,12 @@
   A web developer who loves creating awesome websites using MERN stack.
 </h3>
 
+- 🌱 I’m currently learning **Full Stack Web Development**<br/>
+- 💬 Ask me about
+**HTML, CSS, JS, React, Node.js**<br/>
+- 📫 How to reach me
+**harshraj0588@gmail.com**<br/>
+<h3 align="left">Connect with me:</h3>
 <!--
 **harshxraj/harshxraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
