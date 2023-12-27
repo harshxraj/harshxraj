@@ -9,7 +9,20 @@
 **HTML, CSS, JS, React, Node.js**<br/>
 - 📫 How to reach me
 **harshraj0588@gmail.com**<br/>
+- 📓 Portfolio - **https://harshxraj.github.io**<br/>
 <h3 align="left">Connect with me:</h3>
+
+<p>
+   <a href="https://www.linkedin.com/in/harshxraj" target="_blank"
+    ><img
+      align="center"
+      src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"
+      alt="linkedin"
+      height="30"
+  /></a>
+</p>
+
+
 <!--
 **harshxraj/harshxraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
