@@ -1,4 +1,8 @@
-### Hi there 👋 I am Harsh Raj
+<h1 align="center">Hi 👋, I am Harsh Raj</h1>
+<br>
+<h3 align="center">
+  A web developer who loves creating awesome websites using MERN stack.
+</h3>
 
 <!--
 **harshxraj/harshxraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
