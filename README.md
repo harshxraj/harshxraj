@@ -22,11 +22,11 @@
   /></a>
 </p>
 
-<div>
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=harshxraj&theme=dark&hide_border=true&card_width=496"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=harshxraj&show_icons=true&locale=en&theme=dark"/>
-  
+<div style="display: flex;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshxraj&theme=dark&hide_border=true&card_width=496" style="flex: 1;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=harshxraj&show_icons=true&locale=en&theme=dark" style="flex: 1;"/>
 </div>
+
 
 <div>
   <img width="500px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshxraj&show_icons=true&locale=en&layout=compact"/>
