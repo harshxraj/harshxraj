@@ -22,6 +22,19 @@
   /></a>
 </p>
 
+<div>
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=harshxraj&theme=dark&hide_border=true&card_width=496"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=harshxraj&show_icons=true&locale=en&theme=dark"/>
+  
+</div>
+
+<div>
+  <img width="500px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshxraj&show_icons=true&locale=en&layout=compact"/>
+  <img  src="https://leetcard.jacoblin.cool/harsh-raj?theme=dark&font=Source%20Sans%203"/>
+</div>
+
+
+
 
 <!--
 **harshxraj/harshxraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
