@@ -22,6 +22,11 @@
   /></a>
 </p>
 
+
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=harshxraj&theme=dark&hide_border=true&card_width=496"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshxraj&show_icons=true&locale=en&theme=dark"/></p>
+
+
 <p text-align="left">
   <span><img src="https://github-readme-streak-stats.herokuapp.com/?user=harshxraj&theme=dark&hide_border=true&card_width=496" style="flex: 1;"/></span>
   <span><img src="https://github-readme-stats.vercel.app/api?username=harshxraj&show_icons=true&locale=en&theme=dark" style="flex: 1;"/></span>
