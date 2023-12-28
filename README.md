@@ -25,7 +25,7 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshxraj&theme=dark&hide_border=true&card_width=496" alt="Image 1" />
   <img width="500px" src="https://github-readme-stats.vercel.app/api?username=harshxraj&show_icons=true&locale=en&theme=dark" alt="Image 2" />
-  <img align="center" width="600px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshxraj&show_icons=true&locale=en&layout=compact"/>
+  <img align="center" width="700px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshxraj&show_icons=true&locale=en&layout=compact"/>
   <img  align="center" src="https://leetcard.jacoblin.cool/harsh-raj?theme=dark&font=Source%20Sans%203"/>
 </p>
 
