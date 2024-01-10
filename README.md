@@ -27,8 +27,8 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshxraj&theme=dark&hide_border=true&card_width=496" alt="Image 1" />
-  <img width="500px" src="https://github-readme-stats.vercel.app/api?username=harshxraj&show_icons=true&locale=en&theme=dark" alt="Image 2" />
-  <img align="center" width="700px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshxraj&show_icons=true&locale=en&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=harshxraj&theme=dark&hide_border=true&card_width=496" alt="Image 2" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshxraj&theme=dark&layout=compact&hide_border=true"/>
 </p>
 
 
