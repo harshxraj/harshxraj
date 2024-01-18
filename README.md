@@ -29,6 +29,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshxraj&theme=dark&hide_border=true&card_width=496" alt="Image 1" />
   <img src="https://github-readme-stats.vercel.app/api?username=harshxraj&theme=dark&hide_border=true&card_width=496" alt="Image 2" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshxraj&theme=dark&layout=compact&hide_border=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshxraj&theme=dark"/>
 </p>
 
 
