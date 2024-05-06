@@ -48,6 +48,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=harshxraj&theme=dark&hide_border=true&card_width=496" alt="Image 2" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshxraj&theme=dark&layout=compact&hide_border=true"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshxraj&theme=dark"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshxraj&theme=github-compact" />
 </p>
 
 
