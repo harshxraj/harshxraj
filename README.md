@@ -14,7 +14,7 @@
 
 <p>
 <!--    <a href="https://www.linkedin.com/in/harshxraj" target="_blank" -->
-   <a href="https://www.linkedin.com/in/harsh-raj-71901b305/" target="_blank"
+   <a href="https://www.linkedin.com/in/harshxraj/" target="_blank"
     ><img
       align="center"
       src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"
